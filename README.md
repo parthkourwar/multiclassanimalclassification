@@ -74,8 +74,4 @@ The system efficiently classifies 90 different animal species using MobileNetV2.
 
 ---
 
-## 💡 Author
-
-Developed by: *[Your Name]*  
-For academic or professional use. Contributions welcome!
 
